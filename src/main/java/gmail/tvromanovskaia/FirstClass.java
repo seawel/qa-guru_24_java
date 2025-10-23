@@ -2,6 +2,7 @@ package gmail.tvromanovskaia;
 
 public class FirstClass {
     public static void main(String[] args) {
+        // Восемь примитивных типов данных в Java
         // Целочисленные типы (0- целочисленный литерал и всегда int))))
 
         byte aByte = 0; // 8b (2^8) -128 +127
